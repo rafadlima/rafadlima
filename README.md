@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<h3 align="center">Analista de BI e Estudando de Engenharia de Dados</h3>
+<h3 align="center">Analista de Dados e Estudante de Engenharia de Dados</h3>
 
 🔭 Trabalhando recente no projeto de: [Engenharia de Dados com Azure](https://github.com/rafadlima/engenharia_azure) .
 
