@@ -30,7 +30,8 @@ Here are some ideas to get you started:
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/pt-br/products/data-factory/#overview" target="_blank" rel="noreferrer"> <img src="https://consultabd.files.wordpress.com/2020/02/img000_adf01.jpg" alt="Data Factory" width="40" height="40"/> </a>
- <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-white-mobile.svg" alt="Databricks" width="200" height="40"/> </a>  
+   <a href="https://www.hitachivantara.com/en-us/products/dataops-software/data-integration-analytics/pentaho-community-edition.html" target="_blank" rel="noreferrer"> <img src="https://agailcombr.files.wordpress.com/2020/12/pdi.png?w=256" alt="Pentaho" width="40" height="40"/> </a>  
+ <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-white-mobile.svg" alt="Databricks" width="200" height="40"/> </a>
 </p>
 
 
