@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 🔭 Trabalhando recente no projeto de: [Engenharia de Dados com Azure](https://github.com/rafadlima/engenharia_azure) .
 
-🌱 Estudando Engenharia de **Dados na DS Academy**.
+🌱 Estudando Engenharia de Dados na **DS Academy**.
 
 👯 Pode me contactar pelo e-mail rafael.lima@smartbinteligencia.com.br
 
