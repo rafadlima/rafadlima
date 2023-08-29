@@ -5,11 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-<h3 align="center">Analista de Dados e Business Intelligence</h3>
+<h3 align="center">Gerente de MIS</h3>
 
 🔭 Trabalhando recente no projeto de: [Engenharia de Dados com Azure](https://github.com/rafadlima/engenharia_azure) .
-
-🌱 Estudando Engenharia de Dados na **DS Academy**.
 
 👯 Pode me contactar pelo e-mail rafael.lima@smartbinteligencia.com.br
 
